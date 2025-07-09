@@ -1,30 +1,54 @@
-# CodeAlpha - Handwritten Character Recognition
+# CodeAlpha – Handwritten Character Recognition
+
+## ✅ Completed Tasks
+- **Task 1:** Handwritten Digit Recognition (MNIST)
+- **Task 3:** Handwritten Character Recognition (EMNIST)
 
 ## 🎯 Objective
-Build a CNN model to recognize handwritten digits using the MNIST dataset.
+Build CNN models to recognize handwritten **digits (0–9)** and **alphabets (A–Z)** using deep learning on MNIST and EMNIST datasets.
 
-## 🛠️ Tools Used
+---
+
+## 🛠️ Technologies Used
 - Python
-- Google Colab
 - TensorFlow / Keras
-- Matplotlib
+- Google Colab
+- `tensorflow_datasets`
+- Matplotlib, NumPy
+
+---
 
 ## 📁 Files
-- `HandwrittenDigitRecognition.ipynb`: Main Colab notebook
-- `mnist_digit_model.keras`: Trained model file
+| File | Description |
+|------|-------------|
+| `MNIST_and_EMNIST_CharacterRecognition.ipynb` | Notebook for both tasks |
+| `mnist_digit_model.keras` | Trained model for MNIST |
+| `emnist_character_model.keras` | Trained model for EMNIST |
 
-## 📊 Model Performance
-Achieved ~99% accuracy on MNIST test set.
+---
+
+## 📊 Performance
+- **MNIST:** ~99% accuracy
+- **EMNIST:** ~92% accuracy
+
+---
+
+## 🔗 Dataset Sources
+- MNIST: from `tensorflow.keras.datasets`
+- EMNIST: from `tensorflow_datasets`
+
+---
 
 ## 📸 Sample Output
-(You can insert a screenshot here if available)
+*(Insert screenshots if available)*
+
+---
 
 ## 🎥 Demo Video
-[Link to your short video explanation – YouTube or Google Drive]
+[Insert your video link here]
 
-## 🔗 Dataset
-MNIST (built-in with TensorFlow)
+---
 
-## 💬 Author
+## 🙋‍♂️ Author
 [Your Name]  
 LinkedIn: [Your LinkedIn Profile URL]
