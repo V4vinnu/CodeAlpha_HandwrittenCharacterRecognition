@@ -50,5 +50,5 @@ Build CNN models to recognize handwritten **digits (0–9)** and **alphabets (A�
 ---
 
 ## 🙋‍♂️ Author
-[Your Name]  
-LinkedIn: [Your LinkedIn Profile URL]
+vinay]  
+LinkedIn: https://www.linkedin.com/profile/view?id=ADoAAE-eTVsBALBLa5N0lqrOmld3vgdv3yJf6yo&trk=nav_responsive_tab_profile_pic
